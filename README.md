@@ -1,4 +1,7 @@
-### Hi there 👋
+#### 👋 Hi, I'm Danil Morikov.
+#### 💬 I'm interested in web and desktop development.
+#### 💬 Nowadays I'm open to collaborate and looking for projects that are interesting to me.
+#### 📫 You can PM me [here](mailto:morikov2000@gmail.com)
 
 <!--
 **danyducky/danyducky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
