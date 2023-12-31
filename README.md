@@ -1,6 +1,6 @@
 #### 👋 Hi, I'm Danil Morikov.
 #### 💬 I'm interested in web and desktop development over 3 years.
-#### 💬 Nowadays I'm open to collaborate and looking for projects that are interesting to me.
+#### 💬 Nowadays I'm looking for projects to collaborate or contribute on them.
 #### 📫 You can PM me [here](mailto:morikov2000@gmail.com)
 
 <!--
